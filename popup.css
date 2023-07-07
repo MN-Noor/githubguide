@@ -1,0 +1,31 @@
+.container {
+    width: 280px;
+    color: #1c98c9;
+  }
+  
+  .title {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 8px;
+  }
+  
+  
+  .blue-text {
+    color: rgb(25, 153, 192);
+  }
+  
+  .red-text {
+    color: rgba(236, 17, 17, 0.89);
+  }
+  .textbox {
+    width: 100%;
+    font-size: 12px;
+    margin: 0;
+    padding: 0px 2px;
+  }
+  
+  .textbox:focus {
+    outline: 0;
+    border-color: #66afe9;
+  }
+  
